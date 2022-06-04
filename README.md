@@ -28,7 +28,7 @@
 
 
 ### Contact me on
-<a href="instagram.com/naive_jimin">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.instagram.com/naive_jimin/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <!--
 **masibasi/masibasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
