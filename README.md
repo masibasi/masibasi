@@ -2,6 +2,7 @@
 
 
 
+<hr>
 
 ### 📚 I have Studied in
 `2018 ~`  Gachon Univ. Department of Software
