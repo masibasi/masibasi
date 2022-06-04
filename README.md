@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Masibasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=masibasi&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### 📚 I have Studied in
@@ -9,12 +9,11 @@
 `2017` Seohyun High
 
 `2009` Shanghai American School
-
+<hr>
 
 
 ### 🛠 Stacks I Use!
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masibasi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masibasi&langs_count=8&hide=jupyter%20notebook&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -31,10 +30,22 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
+<hr>
 
 
 ### ☎️ Contact me on
 <a href="https://www.instagram.com/naive_jimin/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<hr>
+
+### ⚡️ github stats
+[![Masibasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=masibasi&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masibasi&langs_count=8&hide=jupyter%20notebook&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+
+### 😼 I am Intersted in 
+
+🧑‍🤝‍🧑**Communication**  **🎧  Music 🤘 Dance**  ☕ **Coffee Brewing 😺 Animals 🍰 맛집** ⛪ **Christian**
 <!--
 **masibasi/masibasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
