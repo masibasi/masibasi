@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 <hr>
 
 ### 📚 I have Studied in
@@ -13,7 +9,7 @@
 <hr>
 
 
-### 🛠 Stacks I Use!
+### 🛠 Stacks
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masibasi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
