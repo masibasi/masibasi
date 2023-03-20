@@ -1,5 +1,5 @@
+![header](https://capsule-render.vercel.app/api?text=Ji%20Min%20Lee&animation=fadeIn&height=200&color=gradient&type=waving)
 <hr>
-
 ### 📚 I have Studied in
 `2018 ~`  Gachon Univ. Department of Software
 
