@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=Ji%20Min%20Lee&animation=fadeIn&height=200&color=gradient&type=waving)
-<hr>
+
 ### 📚 I have Studied in
 `2018 ~`  Gachon Univ. Department of Software
 
@@ -10,6 +10,7 @@
 
 
 ### 🛠 Stacks
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masibasi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
@@ -32,7 +33,9 @@
 ### ☎️ Contact me on
 <a href="https://www.instagram.com/naive_jimin/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/ji-min-lee-486856252/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 <hr>
+
 ### ⚡️ github stats
 [![Masibasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=masibasi&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
