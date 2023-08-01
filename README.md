@@ -10,9 +10,10 @@
 
 ### 🤩 Portfolio & Project Descriptions
 
-<a href="https://brash-amusement-2e9.notion.site/27265c223ac043059e2b1423cef7a69b?pvs=4">![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)</a>
-
+KOR: <a href="https://brash-amusement-2e9.notion.site/27265c223ac043059e2b1423cef7a69b?pvs=4">![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)</a>
+EN : <a href="https://brash-amusement-2e9.notion.site/27265c223ac043059e2b1423cef7a69b?pvs=4">![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)</a>
 <hr>
+
 
 ### 📚BLOG
 <a href="https://velog.io/@masibasi">
