@@ -8,19 +8,7 @@
 `2009` Shanghai American School
 <hr>
 
-### 🤩 Portfolio & Project Descriptions
 
-KOR: <a href="https://brash-amusement-2e9.notion.site/27265c223ac043059e2b1423cef7a69b?pvs=4">![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)</a>
-EN : <a href="https://brash-amusement-2e9.notion.site/Ji-Min-Lee-860b71bad6d243abb6e62b3416dbe8fe?pvs=4">![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)</a>
-<hr>
-
-
-### 📚BLOG
-<a href="https://velog.io/@masibasi">
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
-</a>
-
-<hr>
 
 ### 🛠 Stacks
 
