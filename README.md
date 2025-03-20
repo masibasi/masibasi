@@ -30,6 +30,12 @@
 
 <hr>
 
+### 📚BLOG (Under Construction 🚧)
+<a href="https://jimin.blog/">
+<img src="https://img.shields.io/badge/Blog-4285F4?style=for-the-badge&logo=Blogger&logoColor=white" alt="Blog"/>
+</a>
+
+<hr>
 ### ☎️ Contact me on
 <a href="https://www.instagram.com/naive_jimin/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/ji-min-lee-486856252/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
