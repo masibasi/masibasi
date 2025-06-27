@@ -43,12 +43,6 @@
 
 ---
 
-### ⚙️ Projects  
-- 🎨 [Outfit Designer Agent for Act1-Entertainment](https://github.com/Act1-Entertainment/agents/tree/main/image) — AI + Fashion  
-- 📚 [Coding Interview Prep Repo](https://github.com/masibasi/coding-interview) — LeetCode 일일 풀이  
-- 🌱 Ongoing learning in AI/ML, LLMs, and Agents
-
----
 
 ### ☎️ Contact Me  
 <a href="https://www.instagram.com/naive_jimin/">![Instagram](https://img.shields.io/badge/@naive_jimin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>  
