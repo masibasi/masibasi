@@ -3,10 +3,10 @@
 ### ✨ Hi, I'm Ji Min Lee (이지민)
 
 🎓 **First-year M.S. in Computer Science (AI)** student at **USC Viterbi School of Engineering** (Fall 2025 cohort).  
-💼 Currently preparing for **AI/ML engineering internships** and daily **coding-interview practice**.
+💼 Currently preparing for **Currently pursuing 2026 Summer SWE, Full-Stack, and AI/ML Engineering Internships** 
 
-I’m passionate about building **Human-Centered AI systems** that are both intelligent and intuitive,  
-bridging advanced AI/ML models with robust, scalable web applications.
+I’m passionate about building human-centered, end-to-end AI systems 
+that are both intelligent and intuitive, bridging advanced AI/ML models with robust, scalable web applications.
 
 ---
 
