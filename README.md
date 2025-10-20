@@ -14,10 +14,13 @@ bridging advanced AI/ML models with robust, scalable web applications.
 
 | Project | Description | Key Technologies |
 | :--- | :--- | :--- |
-| **Proact0 — AI Album-Cover Workflow** | Leading development of a multi-agent visual-storytelling pipeline that generates album covers from lyrics, orchestrating LLMs with generative-image pipelines. | `LangChain`, `LangGraph`, `Groq`, `Python`, `ComfyUI`, `HyperLoRA` |
+| **[Visurai — AI Visual Storytelling Assistant](https://github.com/masibasi/visurai)** | Built at the USC Good Vibes Only Buildathon. Converts text into synchronized visual & audio sequences for dyslexic and ADHD learners. | `FastAPI`, `LangGraph`, `OpenAI GPT-4o`, `Replicate (Flux / Ideogram v3)`, `TTS`, `Vision` |
+| **[Proact0 — AI Album-Cover Workflow](https://github.com/Proact0/Act1-Entertainment)** | Leading development of a multi-agent visual-storytelling pipeline that generates album covers from lyrics, orchestrating LLMs with generative-image pipelines. | `LangChain`, `LangGraph`, `Groq`, `Python`, `ComfyUI`, `HyperLoRA` |
 | **EMRO (Hyundai Motor Project)** | End-to-end development of AI-powered procurement web modules for Hyundai Motor Company. | `Java`, `Spring`, `FastText`, `JavaScript (Polymer)`, `MS Azure`, `Oracle/MSSQL` |
-| **A-Log (Tech Lead)** | Built a real-time collaborative release-note platform on a microservices architecture. | `React`, `TypeScript`, `Kafka`, `Kubernetes`, `Docker` |
+| **[A-Log (Tech Lead)](https://github.com/masibasi/alog-front-web)** | Built a real-time collaborative release-note platform on a microservices architecture. | `React`, `TypeScript`, `Kafka`, `Kubernetes`, `Docker` |
 | **AI for Dyslexia (Startup-Incubator)** | Created an AI image-generation web service by fine-tuning Stable Diffusion to help individuals with dyslexia visualize notes. | `PyTorch`, `Fast.ai`, `Stable Diffusion`, `Hugging Face` |
+
+
 
 ---
 
