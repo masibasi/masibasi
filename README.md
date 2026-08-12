@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?text=Ji%20Min%20Lee&animation=fadeIn&height=200&color=gradient&type=waving)
+![header](https://capsule-render.vercel.app/api?text=Jimin%20Lee&animation=fadeIn&height=200&color=gradient&type=waving)
 
-### ✨ Hi, I'm Ji Min Lee (이지민)
+### ✨ Hi, I'm Jimin Lee (이지민)
 
 🎓 **First-year M.S. in Computer Science (AI)** student at **USC Viterbi School of Engineering** (Fall 2025 cohort).  
 💼 Currently preparing for **Currently pursuing 2026 Summer SWE, Full-Stack, and AI/ML Engineering Internships** 
