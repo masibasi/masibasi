@@ -64,7 +64,7 @@ and on [**LeetCode**](https://leetcode.com/masibasi).
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:jiminlee.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jiminlee.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-leejimin%40usc.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://github.com/masibasi">
   <img src="https://img.shields.io/badge/GitHub-masibasi-black?style=for-the-badge&logo=github">
