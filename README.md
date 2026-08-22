@@ -1,69 +1,77 @@
 ![header](https://capsule-render.vercel.app/api?text=Jimin%20Lee&animation=fadeIn&height=200&color=gradient&type=waving)
 
-### ✨ Hi, I'm Jimin Lee (이지민)
+### 👋 Hi, I'm Jimin Lee (이지민)
 
-🎓 **First-year M.S. in Computer Science (AI)** student at **USC Viterbi School of Engineering** (Fall 2025 cohort).  
-💼 Currently preparing for **Currently pursuing 2026 Summer SWE, Full-Stack, and AI/ML Engineering Internships** 
+🎓 **M.S. in Computer Science** student at **USC Viterbi School of Engineering**, graduating in **May 2027**.  
+💻 Software engineer focused on **backend, platform, infrastructure, and applied AI systems**.
 
-I’m passionate about building human-centered, end-to-end AI systems 
-that are both intelligent and intuitive, bridging advanced AI/ML models with robust, scalable web applications.
+I enjoy building production-oriented software that connects **AI/LLM workflows with reliable backend systems, APIs, cloud infrastructure, and developer tooling**.
+
+Currently exploring **2027 New Grad Software Engineering opportunities**.
 
 ---
 
-### 🚀 Featured Projects & Experience
+### 🚀 Featured Experience & Projects
 
-| Project | Description | Key Technologies |
+| Experience / Project | Description | Key Technologies |
 | :--- | :--- | :--- |
-| **[Visurai — AI Visual Storytelling Assistant](https://github.com/masibasi/visurai)** | Built at the USC Good Vibes Only Buildathon. Converts text into synchronized visual & audio sequences for dyslexic and ADHD learners. | `FastAPI`, `LangGraph`, `OpenAI GPT-4o`, `Replicate (Flux / Ideogram v3)`, `TTS`, `Vision` |
-| **[Proact0 — AI Album-Cover Workflow](https://github.com/Proact0/Act1-Entertainment)** | Leading development of a multi-agent visual-storytelling pipeline that generates album covers from lyrics, orchestrating LLMs with generative-image pipelines. | `LangChain`, `LangGraph`, `Groq`, `Python`, `ComfyUI`, `HyperLoRA` |
-| **EMRO (Hyundai Motor Project)** | End-to-end development of AI-powered procurement web modules for Hyundai Motor Company. | `Java`, `Spring`, `FastText`, `JavaScript (Polymer)`, `MS Azure`, `Oracle/MSSQL` |
-| **[A-Log (Tech Lead)](https://github.com/masibasi/alog-front-web)** | Built a real-time collaborative release-note platform on a microservices architecture. | `React`, `TypeScript`, `Kafka`, `Kubernetes`, `Docker` |
-| **AI for Dyslexia (Startup-Incubator)** | Created an AI image-generation web service by fine-tuning Stable Diffusion to help individuals with dyslexia visualize notes. | `PyTorch`, `Fast.ai`, `Stable Diffusion`, `Hugging Face` |
-
-
+| **Blue Shield of California — Service Integration Intern** | Built an AI-assisted **Boomi → MuleSoft migration workflow** estimated to reduce medium-complexity migration effort by **70–80%** (~2 weeks → ~2 days). Developed an LLM agent skill and **6 custom MCP tools**, migrated 4 enterprise integrations, and achieved **56/56 passing MUnit tests**. | `Python`, `MCP`, `LLM Agents`, `MuleSoft`, `DataWeave`, `Azure` |
+| **[Peeko — Real-Time AI Lecture Recovery](https://peeko-pink.vercel.app/)** | Led a 4-person team to build an end-to-end AI lecture assistant in **12 hours**, featuring rolling session summaries, **Catch Me Up** recovery, and Q&A detection. **1st Place Overall at Build4SC Hackathon (USC).** | `Node.js`, `Supabase`, `LLM Pipelines`, `JavaScript` |
+| **USC Interaction Lab — Web Team Lead** | Leading full-stack development of an **NIH R01-funded** research platform supporting 90+ participants, including backend/API design, LLM-assisted reflection, and real-time robot integration. | `Next.js`, `TypeScript`, `AWS`, `AWS IoT Core`, `MQTT` |
+| **EMRO — Hyundai Motor Group Project** | Built and launched production procurement software for Hyundai Motor Group, including Java/Spring backend APIs, analytics workflows, and a Python/FastText service processing **100K+ quotations monthly**. | `Java`, `Spring Boot`, `Python`, `Flask`, `MySQL`, `PostgreSQL`, `Azure`, `Docker` |
+| **[Visurai — AI Visual Storytelling Assistant](https://github.com/masibasi/visurai)** | Built an AI storytelling system that converts text into synchronized visual and audio sequences to improve accessibility for dyslexic and ADHD learners. | `FastAPI`, `LangGraph`, `OpenAI`, `Replicate`, `TTS`, `Vision` |
+| **[Proact0 — Multi-Agent Visual Generation](https://github.com/Proact0/Act1-Entertainment)** | Developed a multi-agent visual generation workflow that transforms lyrics and creative direction into generated visual concepts and album artwork. | `LangChain`, `LangGraph`, `Python`, `ComfyUI` |
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages & AI/ML**  
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-008631?style=flat&logo=LangChain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-5D3FD3?style=flat&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
-**Frameworks & DevOps**  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-FF9900?style=flat&logoColor=white)
-![HyperLoRA](https://img.shields.io/badge/HyperLoRA-7D4CDB?style=flat&logoColor=white)
+**Backend & Web**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+**AI & Agentic Systems**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_Workflows-5D3FD3?style=flat)
+![MCP](https://img.shields.io/badge/MCP-Agent_Tooling-555555?style=flat)
+
+**Cloud, Data & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
-### 🧩 Coding-Interview Prep
+### 🧩 Coding Interview Prep
 
-I’m actively solving daily algorithm challenges and sharing solutions in  
-[**USCode (Coding Interview Prep Repo)**](https://github.com/masibasi/USCode)  
-and on [**LeetCode**](https://leetcode.com/masibasi).
+I regularly practice algorithms and data structures and share selected solutions in:
+
+[**USCode — Coding Interview Prep**](https://github.com/masibasi/USCode)  
+[**LeetCode — masibasi**](https://leetcode.com/masibasi)
 
 ---
 
-### ☎️ Contact Me
+### ☎️ Connect
 
 <a href="https://jimin.blog">
   <img src="https://img.shields.io/badge/Blog-jimin.blog-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/ji-min-lee-486856252/">
+<a href="https://www.linkedin.com/in/jiminlee4015">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:jiminlee.dev@gmail.com">
+<a href="mailto:leejimin@usc.edu">
   <img src="https://img.shields.io/badge/Email-leejimin%40usc.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://github.com/masibasi">
