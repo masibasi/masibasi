@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Jimin%20Lee&animation=fadeIn&height=200&color=gradient&type=waving)
 
-### 👋 Hi, I'm Jimin Lee (이지민)
+### 👋 Hi, I'm Jimin Lee (이지민)  
 
 🎓 **M.S. in Computer Science** student at **USC Viterbi School of Engineering**, graduating in **May 2027**.  
 💻 Software engineer focused on **backend, platform, infrastructure, and applied AI systems**.
